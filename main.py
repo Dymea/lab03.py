@@ -1,8 +1,6 @@
 # Author: Dymea Schippers
 # Collaborator: Olivia Mandola ovm5126@psu.edu
 # Collaborator: Michael Sullivan mls6888@psu.edu
-# Collaborator:
-# Collaborator:
 # Section: 11R
 # Breakout: 11
 
